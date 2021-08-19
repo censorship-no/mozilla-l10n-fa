@@ -930,7 +930,7 @@ web sites through the HTML Notifications API. -->
 <!-- <CENO> -->
 <!-- "No Wi-Fi" dialog -->
 <!ENTITY ceno_wifi_disconnected_dialog_title "اطلاعیه مرورگر CENO">
-<!ENTITY ceno_wifi_disconnected_dialog_description "توصیه می شود هنگام استفاده از CENO، از ارتباط وای‌فای استفاده کنید ، زیرا ممکن است مصرف حجم داده بیش از حد در انتظارتان باشد. شاید بهتر است هنگام استفاده از اینترنت تلفن همراه ، CENO را متوقف کنید.">
+<!ENTITY ceno_wifi_disconnected_dialog_description "توصیه می شود هنگام اتصال Wi-Fi از CENO استفاده کنید، زیرا ممکن است مصرف داده بیش از حد انتظارتان باشد. شاید بخواهید هنگام استفاده از داده تلفن همراه، CENO را متوقف کنید.">
 <!ENTITY ceno_wifi_disconnected_dialog_stop_now "اکنون CENO را متوقف کنید">
 <!ENTITY ceno_wifi_disconnected_dialog_continue "ادامه">
 <!ENTITY ceno_wifi_disconnected_dialog_stop_showing "دوباره نشان نده">
