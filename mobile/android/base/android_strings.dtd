@@ -936,12 +936,12 @@ web sites through the HTML Notifications API. -->
 <!-- Extra paragraph in private tab panel. -->
 <!ENTITY ceno_private_tab_panel_description "«سنو» محتوای برگه‌های خصوصی را با کاربران دیگر به اشتراک نمی‌گذارد. شما همچنین می‌توانید به‌طور امن سایت‌هایی را بازدید کنید که نیاز به اطلاعات ورود دارند. در هرحال راهی برای دسترسی به اینترنت نیاز خواهد بود.">
 
-<!-- "No Wi-Fi" dialog -->
-<!ENTITY ceno_wifi_disconnected_dialog_title "اطلاعیه مرورگر CENO">
-<!ENTITY ceno_wifi_disconnected_dialog_description "توصیه می‌شود هنگام اتصال Wi-Fi از CENO استفاده کنید، زیرا ممکن است مصرف داده بیش از حد انتظارتان باشد. شاید بخواهید هنگام استفاده از داده تلفن همراه، CENO را متوقف کنید.">
-<!ENTITY ceno_wifi_disconnected_dialog_stop_now "CENO را همین حالا متوقف کنید">
-<!ENTITY ceno_wifi_disconnected_dialog_continue "ادامه">
-<!ENTITY ceno_wifi_disconnected_dialog_stop_showing "دوباره نشان نده">
+<!-- "On mobile data" dialog -->
+<!ENTITY ceno_on_mobile_data_dialog_title "اطلاعیه مرورگر CENO">
+<!ENTITY ceno_on_mobile_data_dialog_description "توصیه می‌شود هنگام اتصال Wi-Fi از CENO استفاده کنید، زیرا ممکن است مصرف داده بیش از حد انتظارتان باشد. شاید بخواهید هنگام استفاده از داده تلفن همراه، CENO را متوقف کنید.">
+<!ENTITY ceno_on_mobile_data_dialog_stop_now "CENO را همین حالا متوقف کنید">
+<!ENTITY ceno_on_mobile_data_dialog_continue "ادامه">
+<!ENTITY ceno_on_mobile_data_dialog_stop_showing "دوباره نشان نده">
 
 <!-- Service notification and actions -->
 <!ENTITY ceno_notification_title "خدمات مرورگر CENO">
